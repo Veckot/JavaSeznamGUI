@@ -1,0 +1,11 @@
+Niggerius;1;true
+Humankind;2;false
+Terraria;3;true
+BBC;2;false
+Csgo;3;false
+Bober;1;true
+Hoi4;2;false
+Niggerius Maximus;3;true
+mndlfmldkf;1;false
+Niggerius;1;true
+Niggerius;1;true
