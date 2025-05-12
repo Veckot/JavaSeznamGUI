@@ -15,6 +15,7 @@ public class GameFrame extends JFrame{
     private JPanel pnMain;
     private JButton btSave;
     private JButton btNew;
+    private JTable table1;
 
     private int actualIndex = 0;
     private GameConfig data = new GameConfig();
@@ -66,6 +67,7 @@ public class GameFrame extends JFrame{
                 }
             }
         });
+        table1.setModel(new TableModel(data.getGames()));
     }
 
     public void moveIndex(int how) {
