@@ -1,11 +1,15 @@
-Niggerius;1;true
-Humankind;2;false
-Terraria;3;true
-BBC;2;false
-Csgo;3;false
-Bober;1;true
-Hoi4;2;false
-Niggerius Maximus;3;true
-mndlfmldkf;1;false
-Niggerius;1;true
-Niggerius;1;true
+Minecraft;3;true
+Valorant;2;false
+Apex Legends;1;true
+Overwatch;3;false
+Cyberpunk 2077;2;true
+The Witcher 3;1;false
+Stardew Valley;3;true
+Elden Ring;2;false
+Hollow Knight;1;true
+Among Us;3;false
+Fortnite;2;true
+Call of Duty;1;false
+League of Legends;3;true
+PUBG;2;false
+Rocket League;1;true
